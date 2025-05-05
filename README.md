@@ -7,6 +7,23 @@
   <a href="https://github.com/citation-style-language/styles/actions"><img src="https://github.com/citation-style-language/styles/workflows/Merge%20to%20release/badge.svg?event=push" alt="Build Status"></a>
 </p>
 
+# Modified BioMed Central Citation Style
+
+> **Important Update:** This fork contains an updated version of the BioMed Central citation style that correctly handles DOI formatting.
+
+### Direct Link to the Updated File:
+[biomed-central.csl](https://github.com/NourEdinDarwish/styles/blob/main/biomed-central.csl)
+
+### How to Use:
+You can directly use this citation style in your reference manager by adding the following URL:
+https://raw.githubusercontent.com/NourEdinDarwish/styles/main/biomed-central.csl
+
+### Improvements Made:
+- Fixed DOI handling to ensure correct formatting in citations
+- Maintains compatibility with the original citation style
+
+---
+
 Introduction
 ------------
 
