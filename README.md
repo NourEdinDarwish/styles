@@ -12,7 +12,7 @@
 > **Important Update:** This fork contains an updated version of the BioMed Central citation style that correctly handles DOI formatting.
 
 ### Direct Link to the Updated File:
-[biomed-central.csl](https://github.com/NourEdinDarwish/styles/blob/main/biomed-central.csl)
+[biomed-central.csl](https://github.com/NourEdinDarwish/styles/blob/master/biomed-central.csl)
 
 ### How to Use:
 You can directly use this citation style in your reference manager by adding the following URL:
