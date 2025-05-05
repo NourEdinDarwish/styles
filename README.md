@@ -16,7 +16,7 @@
 
 ### How to Use:
 You can directly use this citation style in your reference manager by adding the following URL:
-https://raw.githubusercontent.com/NourEdinDarwish/styles/main/biomed-central.csl
+https://raw.githubusercontent.com/NourEdinDarwish/styles/master/biomed-central.csl
 
 ### Improvements Made:
 - Fixed DOI handling to ensure correct formatting in citations
